@@ -1,3 +1,16 @@
+Package: com.stremio.ios6
+Name: Stremio 6
+Version: 1.2.4
+Architecture: iphoneos-arm
+Description: Stremio 6 iOS app installed as a jailbreak system app
+Maintainer: Stremio iOS 6
+Section: Applications
+Priority: optional
+Filename: debs/com.stremio.ios6_1.2.4_iphoneos-arm.deb
+Size: 1327526
+MD5sum: e2ad00fa4011bda415119ce9c8529dc9
+SHA256: b9f2827686c6780b63240d8cdb21b0f012eb83397037872d7e9b38b9c715ec7d
+
 Package: local.airplayreceiver
 Name: AirPlay
 Description: AirPlay 2 audio receiver for iPhone and iPad on iOS 6.
