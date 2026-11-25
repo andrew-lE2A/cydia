@@ -1,4 +1,19 @@
 Package: local.airplayreceiver
+Name: AirPlay
+Description: AirPlay 2 audio receiver for iPhone and iPad on iOS 6.
+Maintainer: AirPlay Receiver contributors
+Author: Kristian Trenskow
+Section: Networking
+Depends: firmware (>= 6.0)
+Architecture: iphoneos-arm
+Version: 2.1.10
+Installed-Size: 5256
+Filename: debs/local.airplayreceiver_2.1.10_iphoneos-arm.deb
+Size: 2782692
+MD5sum: 9aae0e6ba307dd13d984989891ff21fe
+SHA256: 9a93e46dfddcd01f1fbc918a66a9016be4b540ea2561d23c6a585419268389fa
+
+Package: local.airplayreceiver
 Name: AirPlay Receiver
 Description: AirPlay 2 audio receiver for iPhone and iPad on iOS 6.
 Maintainer: AirPlay Receiver contributors
