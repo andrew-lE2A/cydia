@@ -1,0 +1,1 @@
+Place Debian package files (.deb) in this folder. Keep prior versions; the repository index includes every .deb found here, including files in subfolders. After adding or removing packages, run python3 build-repo.py from the repository root and commit the regenerated Packages, Packages.gz, and Release files.
