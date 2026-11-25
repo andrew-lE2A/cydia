@@ -13,6 +13,21 @@ Size: 43858
 MD5sum: 68450c4600d28206f9d8d60e10e4955a
 SHA256: b9cb036e39f283dbffc6885988ac10c536ba2628a23c103f1392c2e9a361d088
 
+Package: com.legacyhome.hue
+Name: Home
+Description: Philips Hue and Apple TV controls for iOS 6.
+Maintainer: Legacy Home
+Author: Legacy Home
+Section: Applications
+Depends: firmware (>= 6.0), com.example.smartcoverwidgets (>= 0.3.18)
+Architecture: iphoneos-arm
+Version: 1.2.6
+Installed-Size: 10908
+Filename: debs/com.legacyhome.hue_1.2.6_iphoneos-arm.deb
+Size: 10728342
+MD5sum: e449daf581bacca8747e86405ba8065e
+SHA256: 910aaa0e1b17e375ae3d1cfc583e546724aa9fc76b4d5cd30a4346ba91157037
+
 Package: com.stremio.ios6
 Name: Stremio 6
 Version: 1.2.4
