@@ -3,12 +3,14 @@ Label: Cydia
 Suite: stable
 Version: 1.0
 Codename: stable
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm
 Components: main
 Description: Personal repository for jailbreak packages
+
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 Packages
- fa9ac5a217b5547bc7dd4e6e894fe135 20 Packages.gz
-SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Packages
- 9ceffb7310338057cfe71a4ae1e2c98d2c485d81cdef906532a801f457a38d64 20 Packages.gz
+ f3390eafdea746dbd9e98a9b6c52939b 489 Packages
+ 7ad3c63bd97805138e6a4d2480be1caf 348 Packages.gz
+
+SHA256Sum:
+ 1dd80fd5d49538c3d9449ad2bd32aacfaa6c04bd76d0bf24fa6bd51dc7aca66d 489 Packages
+ 2999a5e71a934610fc4ae03f5a268a08e9f618fa8f1e9f3529fb90d066296177 348 Packages.gz
